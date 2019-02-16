@@ -39,6 +39,10 @@ If a player has cards he can play one or more cards with the following rules:
 
 If the player doesn't have a card, the player draws 4 new cards from the deck and their turn is over. He cannot acquire a province that round.
 
+### Win Condition
+
+If one players holds at least half of all available provinces, the game is over and that player has won.
+
 
 ## Lists of Cards
 
