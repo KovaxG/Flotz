@@ -38,3 +38,37 @@ If a player has cards he can play one or more cards with the following rules:
 
 
 If the player doesn't have a card, the player draws 4 new cards from the deck and their turn is over. He cannot acquire a province that round.
+
+
+## Lists of Cards
+
+### Regular Cards
+
+- Pensioners
+  - Raising Pensions (+1)
+  - Free Oil and Flour (+1)
+  - Free Public Transportation (+1)
+- Religion
+  - Religious Miracle (+1)
+  - Cathedral (+1)
+  - Religious Leader (+1)
+  - Relegious Referendum (-1)
+- Propaganda
+  - Pro Right Channel (+1, -1)
+  - Pro Left Channel (+1, -1)
+  - Sensetionalist News Channel (+1, -1)
+- Academics
+  - Scolarship (+1)
+  - Protests (-1)
+  - Academic Tax Exemption (+1)
+  - Academic Emigration (-1)
+- Sports
+  - Famous Tennis Player Endorsement (+1)
+  - Sport Hooligans (-1)
+  - Famous Football Player Endorsement (+1)
+- Police
+  - Coruption (+1)
+  - Police Ticket (-1)
+- Judicial System
+  - A.N.A.F. (-2)
+  - Criminal Charges (-1)
