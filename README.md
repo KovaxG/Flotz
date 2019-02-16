@@ -10,6 +10,8 @@ There are n types of cards in this game:
 - Influence Cards
 - Regular Cards
 
+![Regular Card](RegularCard.png)
+
 ## How to Play
 
 ### Setting up
