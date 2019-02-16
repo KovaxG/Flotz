@@ -6,6 +6,8 @@ Note: This game is a work in progress and rules might change regularly
 
 There are n types of cards in this game:
 - Province Cards
+
+![Province Card](ProvinceCard.png)
 - Allies (?) Cards
 - Influence Cards
 - Regular Cards
