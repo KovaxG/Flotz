@@ -29,8 +29,13 @@ Examples:
 
 Important individuals who may sway a certain block of voters to your side easier, or give you special abilities.
 Examples:
- - Richest Person
- - Religious Leader
+ - War Veteran / Oldest Person (Pensioners)
+ - Famous Scientist (Academics)
+ - Filantropist (The Poor)
+ - Richest Person  (Business Owners)
+ - Vlogger / Piedipie (Working Class)
+ - Cincilla (Environmentalists)
+ - Religious Leader (Religious Voters)
 
 ![Ally Card](AllyCard.png)
 
@@ -47,44 +52,7 @@ Example:
 ### Regular Cards
 
 These cards grant votes or reduce votes from other players.
-
-![Regular Card](RegularCard.png)
-
-### Blocker Cards
-
-They have the effect of blocking a certain type of activity for a full round.
-
-## How to Play
-
-### Setting up
-
-Lay out Voting Block and Key Supporter Cards on the table with face up so all players can see them. Next, shuffle the rest of the cards and place the deck on the table.
-
-Each player gets 4 cards. One of them begins the round.
-
-### Playing 
-
-When a player's round begins, if he has cards, he can use a combination of them to perform an action. 
-
-If a player has cards he can play one or more cards with the following rules:
-- The player can play any number of cards that have the same category (for example if they hold 3 religious cards and 1 propaganda card, they can play either the one propaganda or the 3 religious cards at the same time)
-- If the player has a hand that would satisfy the requirements for a certain Key Supporter Card, they can use those cards and gain that Key Supporter Card. However, the effects of the cards do not have any effect. They can take the Key Supporter from the table and place it next to them. They now gain the bonus effects of the Key Supporter Card.
-- They can place all four cards into the deck, shuffle it up and draw four cards. The player can not play any card in that round.
-- If they have enough votes they can acquire a Voting Block. They take the Voting Block from the table and place it next to them.
-- If they play an influence card, they can not play any other cards that round.
-
-
-If the player doesn't have a card, the player draws 4 new cards from the deck and their turn is over. He cannot acquire a province that round.
-
-### Win Condition
-
-If one players holds at least half of all available provinces, the game is over and that player has won.
-
-
-## Lists of Cards
-
-### Regular Cards
-
+Examples:
 - Pensioners
   - Raising Pensions (+1)
   - Free Oil and Flour (+1)
@@ -115,8 +83,12 @@ If one players holds at least half of all available provinces, the game is over 
   - A.N.A.F. (-2)
   - Criminal Charges (-1)
 
-### Special Cards
+![Regular Card](RegularCard.png)
 
+### Blocker Cards
+
+They have the effect of blocking a certain type of activity for a full round.
+Examples:
  - Cards that blocks a certain type of card in a round.
  - Police Card  Blocker (Chief under investigation)
  - Pensioners Protest (Blocker)
@@ -125,8 +97,33 @@ If one players holds at least half of all available provinces, the game is over 
  - Broadcast blackout (Propaganda blocker)
  - Big accident (Sport blocker)
  - Corupt Judge (juducial blocker)
- 
- 
+
+## How to Play
+
+### Setting up
+
+Lay out Voting Block and Key Supporter Cards on the table with face up so all players can see them. Next, shuffle the rest of the cards and place the deck on the table.
+
+Each player gets 4 cards. One of them begins the round.
+
+### Playing 
+
+When a player's round begins, if he has cards, he can use a combination of them to perform an action. 
+
+If a player has cards he can play one or more cards with the following rules:
+- The player can play any number of cards that have the same category (for example if they hold 3 religious cards and 1 propaganda card, they can play either the one propaganda or the 3 religious cards at the same time)
+- If the player has a hand that would satisfy the requirements for a certain Key Supporter Card, they can use those cards and gain that Key Supporter Card. However, the effects of the cards do not have any effect. They can take the Key Supporter from the table and place it next to them. They now gain the bonus effects of the Key Supporter Card.
+- They can place all four cards into the deck, shuffle it up and draw four cards. The player can not play any card in that round.
+- If they have enough votes they can acquire a Voting Block. They take the Voting Block from the table and place it next to them.
+- If they play an influence card, they can not play any other cards that round.
+
+
+If the player doesn't have a card, the player draws 4 new cards from the deck and their turn is over. He cannot acquire a province that round.
+
+### Win Condition
+
+If one players holds at least half of all available provinces, the game is over and that player has won.
+
 ## Links
 https://en.wikipedia.org/wiki/Votebank  
 
