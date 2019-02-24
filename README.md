@@ -76,3 +76,6 @@ If one players holds at least half of all available provinces, the game is over 
 - Judicial System
   - A.N.A.F. (-2)
   - Criminal Charges (-1)
+
+### Special Cards
+ - Cards that blocks a certain type of card in a round.
